@@ -8,7 +8,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-
 		Compartimento compartimento1 = new Compartimento(1, 30, 40, false);
 		Compartimento compartimento2 = new Compartimento(2, 40, 50, true);
 		Compartimento compartimento3 = new Compartimento(3, 50, 60, false);
