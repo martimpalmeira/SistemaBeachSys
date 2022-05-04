@@ -69,7 +69,7 @@ public class Cliente {
 	}
 
 	public int lerCompartDoUsuario() {
-		System.out.println("------- Digite o número de um compartimento disponível. -------");
+		System.out.println("-------- Digite o número de um compartimento disponível. --------");
 		int respostaUsuario = sc.nextInt();
 		sc.nextLine();
 		return respostaUsuario;
